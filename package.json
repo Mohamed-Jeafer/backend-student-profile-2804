@@ -1,0 +1,29 @@
+{
+  "name": "nodemon",
+  "version": "1.0.0",
+  "description": "Please read the following details before you click 'Mark as Done' to your submission \r 1. Make sure that all your code is merged to the Main branch\r 2. Include all files necessary to run your app, NOT just the source code, except for the **node_modules** folder\r 3. Here is an example of how we will test your code",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0",
+    "redis": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed-Jeafer/student-profile-2804.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed-Jeafer/student-profile-2804/issues"
+  },
+  "homepage": "https://github.com/Mohamed-Jeafer/student-profile-2804#readme"
+}
