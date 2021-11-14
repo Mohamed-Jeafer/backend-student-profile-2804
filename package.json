@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mohamed-Jeafer/student-profile-2804.git"
+    "url": "git+https://github.com/Mohamed-Jeafer/backend-student-profile-2804.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mohamed-Jeafer/student-profile-2804/issues"
+    "url": "https://github.com/Mohamed-Jeafer/backend-student-profile-2804/issues"
   },
-  "homepage": "https://github.com/Mohamed-Jeafer/student-profile-2804#readme"
+  "homepage": "https://github.com/Mohamed-Jeafer/backend-student-profile-2804#readme"
 }
